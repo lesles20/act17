@@ -1,0 +1,9 @@
+inicio
+leer nombre;
+leer calle;
+leer numero;
+leer colonia;
+leer municipio;
+leer telefono;
+resultado;
+fin
